@@ -1,0 +1,11 @@
+{
+  "ownerName": "",
+  "petSelections": ["狗", "猫", "兔", "仓鼠", "小马", "雪貂", "鱼", "鸟"],
+  "selectedPets": ["狗", "猫", "雪貂"],
+  "ageOptions": ["0 - 5", "6 - 11", "12 - 17","18 - 25", "26 - 31","32 - 37", "38 - 43", "44 - 49","50 - 55", "56 - 60", "大于60"],
+  "ownerAgeRangeSelection": "",
+  "siblingOptions": ["是", "否"],
+  "siblingSelection": ["是"],
+  "currentPetCount": 0,
+  "description": ""
+}

@@ -1,0 +1,30 @@
+.guidance {
+    background-color: #ddff00;
+}
+.side-nav {
+    float: left;
+    width: 300px;
+    min-height: 500px;
+    background-color: #afbdcf;
+    padding: 10px;
+}
+.side-nav h3 {
+    text-align: left;
+    color: #fddeea;
+}
+.side-ul {
+    text-align: left;
+    padding-left: 30px;
+}
+.side-ul li {
+    line-height: 20px;
+    color: #1890b9;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+    cursor: pointer;
+}
+.nav-content {
+    min-height: 500px;
+    background-color: #36ddce;
+    margin-left: 310px;
+}

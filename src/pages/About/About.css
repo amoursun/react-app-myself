@@ -1,0 +1,28 @@
+.about {
+    padding-top: 10px;
+    text-align: left;
+}
+.about-left{
+    float: left;
+    width: 200px;
+    min-height: 500px;
+    background-color: #ddffee;
+}
+.about-right {
+    text-align: center;
+    margin-left: 210px;
+}
+.App .nav li {
+    display: inline-block;
+    padding-right: 10px;
+    float: left;
+    text-decoration: none;
+}
+
+.App .nav a {
+    color: #fff;
+}
+
+.App .nav .active {
+    color: pink;
+}

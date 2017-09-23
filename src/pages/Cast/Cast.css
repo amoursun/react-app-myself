@@ -1,0 +1,54 @@
+.cast {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    min-height: 500px;
+    background-color: #fddeea;
+}
+.cast-top {
+    border: 1px solid #0BB20C;
+    max-height: 300px;
+    padding: 10px 0 20px 0;
+}
+.form-top {
+    border: 0;
+    padding: 20px;
+    border-radius: 0;
+    display: inline-block;
+}
+.form-top label {
+    padding-left: 10px;
+}
+.form-top label input[type=checkbox] {
+    margin-right: 2px;
+}
+.cast fieldset {
+    margin: 20px 80px 10px 80px;
+    border: 1px solid purple;
+    display: inline-block;
+    width: 30%;
+    padding-bottom: 10px;
+}
+.span {
+    display: inline-block;
+    height: 46px;
+    vertical-align: super;
+    font-size: 30px;
+    font-weight: 500;
+}
+.show {
+    margin-top: 10px;
+    font-size: 24px;
+    color: red;
+}
+.form {
+    width: 400px;
+    margin: 20px auto 0;
+    border: 1px solid #1b6d85;
+}
+
+.table {
+    margin: 0 auto;
+    text-align: center;
+}
+

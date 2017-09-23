@@ -1,0 +1,33 @@
+.Contacts {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid #14c56d;
+    padding: 10px;
+}
+
+input[type=checkbox],
+input[type=radio] {
+    margin-right: 8px;
+}
+
+.form-label.capitalize {
+    text-transform: capitalize;
+}
+
+.checkbox-group {
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+}
+
+.checkbox-group .form-label {
+    display: inline-block;
+    width: auto;
+    text-align: left;
+    margin-left: 40px;
+}
+
+input[type=submit],
+.btn-link {
+    margin-top: 20px;
+}

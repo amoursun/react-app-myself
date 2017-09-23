@@ -1,0 +1,26 @@
+.Home {
+    text-align: center;
+    background-color: #add520;
+    padding: 20px;
+}
+
+.Home-header {
+    background-color: #20d592;
+    height: 100%;
+    padding: 20px;
+    color: white;
+}
+
+.input {
+    display: inline-block;
+    height: 26px;
+    vertical-align: middle;
+    outline-style: none;
+}
+button {
+    cursor: pointer;
+}
+
+.Home-intro {
+    font-size: large;
+}
