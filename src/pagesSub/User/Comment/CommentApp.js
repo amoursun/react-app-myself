@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import CommentInput from './CommentInput';
 import CommentList from './CommentList';
 
+
 // const comments = [
 //     {username: 'Jerry', content: '练兵备战强势推进，训战一体疾风劲吹', date: 15000020338353},
 //     {username: 'Tomy', content: '聚力打仗主责主业，上下同欲真抓实备', date: 15000020338353},
